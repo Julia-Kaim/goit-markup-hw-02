@@ -5,6 +5,7 @@
   line-height: 31px;
   letter-spacing: 0.03em;
   text-align: left;
+  text-decoration: none;
 
   font-family: Oleo Script;
   font-size: 26px;
@@ -12,4 +13,60 @@
   line-height: 36px;
   letter-spacing: 0.03em;
   text-align: left;
+}
+.web-styling {
+  color: #2196f3;
+}
+.studio-styling {
+  color: black;
+}
+.menu {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+
+  color: #2196f3;
+  text-decoration: none;
+}
+.contact-data {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+
+  color: #2196f3;
+}
+.main-styling {
+  background-color: #2f303a;
+  width: 1600px;
+  height: 600px;
+  left: -6px;
+  top: 80px;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 60px;
+  letter-spacing: 0.06em;
+  text-align: center;
+}
+.button {
+  background-color: #2196F3;
+color: #FFFFFF;
+Font family: Roboto
+Font style: Bold;
+Font size: 16px;
+Line height: 30px;
+Line height: 160%;
+Align: Center;
+Vertical align: Center;
+Letter spacing: 6%;
+
+
 }
