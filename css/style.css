@@ -45,10 +45,25 @@ text-decoration: none;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
-list-style-type: none;
+list-style: none;
+display: flex;
+}
+.menu .link {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+list-style: none;
   color: #212121;
   text-decoration: none;
-  display: block-inline;
+  display: block;
+}
+.link {
+  text-decoration: none;
+  
+  
 }
 .link:hover {
    color: #2196F3;
@@ -57,21 +72,26 @@ list-style-type: none;
 .link:focus {
   color: #2196F3;
 }
-.menu .menu:visited {
-text-decoration: none;
- }
+.link:active {
+  color:#2196F3
+}
+.link:visited {
+  text-decoration: none;
+  
+}
 
 
 
 
 .contact-data {
+  color: #757575;
   font-family: Roboto, sans-serif;
 font-size: 14px;
 font-weight: 500;
 line-height: 16px;
 letter-spacing: 0.02em;
 text-align: left;
-  color: #2196f3;
+
   
 }
 
