@@ -47,6 +47,7 @@ text-decoration: none;
   letter-spacing: 0.02em;
 list-style: none;
 display: flex;
+ 
 }
 .menu .link {
   font-family: "Roboto", sans-serif;
@@ -59,6 +60,8 @@ list-style: none;
   color: #212121;
   text-decoration: none;
   display: block;
+   padding: 10px;
+  margin: 0;
 }
 .link {
   text-decoration: none;
@@ -80,9 +83,6 @@ list-style: none;
   
 }
 
-
-
-
 .contact-data {
   color: #757575;
   font-family: Roboto, sans-serif;
@@ -91,7 +91,25 @@ font-weight: 500;
 line-height: 16px;
 letter-spacing: 0.02em;
 text-align: left;
-
+display: flex;
+}
+.contact-data .link {
+  color: #757575;
+  display: block;
+   padding: 10px;
+  margin: 0;
+}
+.link:hover {
+   color: #2196F3;}
+  
+.link:focus {
+  color: #2196F3;
+}
+.link:active {
+  color:#2196F3
+}
+.link:visited {
+  text-decoration: none;
   
 }
 
