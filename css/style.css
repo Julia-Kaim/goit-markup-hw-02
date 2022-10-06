@@ -192,3 +192,25 @@ text-align: center;
   background-color: #FFFFFF;
 
  }
+ .name-styling {
+  font-family: Roboto, sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #212121;
+
+
+ }
+ .job-position {
+  font-family: Roboto, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #757575;
+
+
+ }
