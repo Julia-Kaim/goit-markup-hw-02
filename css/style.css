@@ -111,8 +111,6 @@ line-height: 60px;
 letter-spacing: 0.06em;
 text-align: center;
 padding-top: 200px;
-
-
 height: 600px;
 width: 1600px;
 left: 0px;
@@ -124,14 +122,40 @@ border-radius: 0px;
 .button {
   background-color: #2196F3;
 color: #FFFFFF;
-Font family: Roboto
-Font style: Bold;
-Font size: 16px;
-Line height: 30px;
-Line height: 160%;
-Align: Center;
-Vertical align: Center;
-Letter spacing: 6%;
+height: 50px;
+width: 200px;
+left: 723px;
+top: 404px;
+border-radius: 4px;
+border-color: #2196F3;
+font-family: Roboto, sans-serif;;
+font-size: 16px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.06em;
+text-align: center;}
+
+.first-part {
+background-color: #FFFFFF;
+height: 2349px;
+width: 1600px;
+left: 3444px;
+top: -2513px;
+border-radius: 0px;
+
+}
+.list-styling {
+  list-style: none;
+  display: inline-flex;
+}
+.text-header {
+  font-family: Roboto, sans-serif;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #212121;
 
 
 }
