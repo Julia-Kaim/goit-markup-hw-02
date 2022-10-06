@@ -245,3 +245,26 @@ text-decoration: none;
 
 
  }
+ .button-portfolio {
+  color: #212121;
+background-color: #F5F4FA;
+Fill: Solid;
+height: 50px;
+width: 200px;
+left: 723px;
+top: 404px;
+border-radius: 4px;
+border-color: #F5F4FA;
+
+font-family: Roboto, sans-serif;;
+font-size: 16px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.06em;
+text-align: center;}
+ 
+.button-portfolio:hover {
+  background-color: #2196F3;
+  color: #FFFFFF;
+
+}
