@@ -137,11 +137,7 @@ text-align: center;}
 
 .first-part {
 background-color: #FFFFFF;
-height: 2349px;
-width: 1600px;
-left: 3444px;
-top: -2513px;
-border-radius: 0px;
+
 
 }
 .list-styling {
@@ -156,6 +152,43 @@ line-height: 16px;
 letter-spacing: 0.03em;
 text-align: left;
 color: #212121;
+}
+.description {
+  font-family: Roboto, sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #757575;
 
 
 }
+
+.picture-header {
+  font-family: Roboto, sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #212121;
+
+
+}
+.team-header {
+  font-family: Roboto, sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
+.second-part {
+  background-color: #F5F4FA;
+}
+ .person-box {
+  background-color: #FFFFFF;
+
+ }
